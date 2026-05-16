@@ -46,3 +46,19 @@ Highlights:
 - API ingestion pipeline
 - Data lake and warehouse architecture
 - dbt transformations
+
+--
+
+## [netflix-data-explorer (Netflix Data Explorer)](https://github.com/franc225/netflix-data-explorer)
+Containerized data analytics pipeline using Docker, pytest, and GitHub Actions CI/CD.
+
+Stack:  
+Python · pandas · Docker · pytest · GitHub Actions
+
+Highlights:
+- Dockerized analytics workflow
+- Automated testing with pytest
+- GitHub Actions continuous integration pipeline
+- Reproducible Linux container environment
+- Automated local validation workflow
+- Kaggle dataset integration
