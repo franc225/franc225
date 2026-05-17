@@ -1,8 +1,16 @@
+# François
+
+Software Developer & BI Analyst based in Longueuil, Québec, Canada.
+
 Data / BI / Analytics Engineering projects focused on:
 - analytics engineering
 - forecasting
 - modern data stacks
 - business intelligence
+
+## Tech Stack
+
+Python · SQL · DuckDB · dbt · Airflow · Power BI · Docker · GitHub Actions · pandas · scikit-learn
 
 # Featured Projects
 
@@ -47,7 +55,7 @@ Highlights:
 - Data lake and warehouse architecture
 - dbt transformations
 
---
+---
 
 ## [netflix-data-explorer (Netflix Data Explorer)](https://github.com/franc225/netflix-data-explorer)
 Containerized data analytics pipeline using Docker, pytest, and GitHub Actions CI/CD.
@@ -62,3 +70,11 @@ Highlights:
 - Reproducible Linux container environment
 - Automated local validation workflow
 - Kaggle dataset integration
+
+## Areas of Interest
+
+- Analytics Engineering
+- Business Intelligence
+- Data Pipelines
+- Forecasting & Time-Series Analysis
+- Modern Data Stack Architectures
